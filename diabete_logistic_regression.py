@@ -1,4 +1,4 @@
-#Autor; Hossein ZOLFAGHARI
+#Autor: Hossein ZOLFAGHARI
 #France
 #2022
 #Diabete Multiple Linear Regression.py
